@@ -22,7 +22,7 @@ flatten( [['a'], 'b', ['c', ['d']]] );
 
 ## API
 
-### onedimension(arr, res)
+### oned(arr, res)
 
 Flatten an array into a sweet 1D array
 
