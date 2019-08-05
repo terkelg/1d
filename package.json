@@ -1,6 +1,6 @@
 {
   "name": "1d",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Make multi-dimensional arrays as flat as a pancake",
   "homepage": "https://github.com/terkelg/1d",
   "main": "src/index.js",
