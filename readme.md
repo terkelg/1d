@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/terkelg/1d/raw/master/1d.png" alt="1D" width="280" />
+  <img src="https://github.com/terkelg/1d/raw/master/1d.png" alt="1D" width="200" />
 </div>
 
 <h1 align="center">1D</h1>
@@ -37,6 +37,8 @@ flatten( [['a'], 'b', ['c', ['d']]] );
 // ['a', 'b', 'c', 'd']
 ```
 
+> **OBS**: This is a built-in feature from Node.js `11.15.0` and up. Check out
+[Array.prototype.flat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)
 
 ## API
 
