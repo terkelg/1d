@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/terkelg/1d/raw/master/1d.png" alt="1D" width="320" />
+  <img src="https://github.com/terkelg/1d/raw/master/1d.png" alt="1D" width="280" />
 </div>
 
 <h1 align="center">1D</h1>
